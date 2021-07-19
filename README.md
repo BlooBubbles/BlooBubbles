@@ -1,4 +1,2 @@
-- 😎 Hello, I’m @BlooBubbles
-- 🤩Brain like java, java make brain happy.
-- 🔭 I’m looking to collaborate on anything to make brain learn java.
-- 🤖 give me $ for brain labor: wyattdavis@gmail.com
+- 😎 Hello, I’m wyatt
+
